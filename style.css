@@ -3,3 +3,9 @@ h1{
     color: #65D954;
     font-weight: 70;
 }
+
+p{
+    display: block;
+    color: red;
+    font-size: 20px;
+}
